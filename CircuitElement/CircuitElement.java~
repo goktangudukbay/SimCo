@@ -1,0 +1,11 @@
+/**
+ * Auto Generated Java Class.
+ */
+public abstract class CircuitElement {
+   
+   public CircuitElement() { 
+      /* YOUR CONSTRUCTOR CODE HERE*/
+   }
+   /* ADD YOUR CODE HERE */
+   
+}

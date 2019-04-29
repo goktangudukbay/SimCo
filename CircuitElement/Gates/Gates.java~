@@ -1,0 +1,13 @@
+/**
+ * Auto Generated Java Class.
+ */
+public class Gates extends ComputationUnit {
+   
+   //properties
+   
+   public Gates() { 
+      /* YOUR CONSTRUCTOR CODE HERE*/
+   }
+   /* ADD YOUR CODE HERE */
+   
+}
