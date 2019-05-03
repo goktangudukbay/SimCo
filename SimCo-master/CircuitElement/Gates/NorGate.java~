@@ -1,0 +1,11 @@
+/**
+ * Auto Generated Java Class.
+ */
+public class NorGate extends Gates {
+   
+   public NorGate() { 
+      /* YOUR CONSTRUCTOR CODE HERE*/
+   }
+   /* ADD YOUR CODE HERE */
+   
+}

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" main="MainScreen" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="CircuitElement/Gates/Gates.java" package="" timestamp="29-Apr-2019 10:27:27">
+        <select from="306" to="306"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="MainScreen.java" package="" timestamp="29-Apr-2019 09:15:45">
+        <select from="306" to="306"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Circuit/Circuit.java" package="" timestamp="29-Apr-2019 09:51:38">
+        <select from="306" to="306"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Circuit/UserDefined.java" package="" timestamp="29-Apr-2019 09:47:14">
+        <select from="306" to="306"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Circuit/WorkSpace.java" package="" timestamp="29-Apr-2019 09:48:34">
+        <select from="306" to="306"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="CircuitElement/CircuitElement.java" package="" timestamp="29-Apr-2019 09:50:25">
+        <select from="306" to="306"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="CircuitElement/ComputationUnit.java" package="" timestamp="29-Apr-2019 10:01:04">
+        <select from="306" to="306"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="CircuitElement/MemoryBlock.java" package="" timestamp="29-Apr-2019 09:50:25">
+        <select from="306" to="306"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="CircuitElement/Switch.java" package="" timestamp="29-Apr-2019 09:50:25">
+        <select from="306" to="306"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="CircuitElement/Wire.java" package="" timestamp="29-Apr-2019 09:50:25">
+        <select from="306" to="306"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="CircuitElement/Gates/NAndGate.java" package="" timestamp="29-Apr-2019 10:29:30">
+        <select from="306" to="306"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="CircuitElement/Gates/AndGate.java" package="" timestamp="29-Apr-2019 10:31:00">
+        <select from="306" to="306"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="CircuitElement/Gates/NorGate.java" package="" timestamp="29-Apr-2019 10:31:00">
+        <select from="306" to="306"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="CircuitElement/Gates/XOrGate.java" package="" timestamp="29-Apr-2019 10:31:00">
+        <select from="306" to="306"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="CircuitElement/Gates/OrGate.java" package="" timestamp="29-Apr-2019 10:31:00">
+        <select from="306" to="306"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="CircuitElement/Gates/NotGate.java" package="" timestamp="29-Apr-2019 10:36:05">
+        <select from="306" to="306"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>

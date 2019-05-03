@@ -1,0 +1,298 @@
+29 Apr 2019 17:04:25 GMT: Log 'EclipseCompiler.txt' opened: 29 Apr 2019 17:04:25 GMT with name C:\Users\M. Goktan Gudukbay\Desktop\SimCO\EclipseCompiler.txt
+29 Apr 2019 17:18:59 GMT: diagnostics = javax.tools.DiagnosticCollector@619377
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1603955
+fileObjects = [C:\Users\M. Goktan Gudukbay\Desktop\SimCO\MainScreen.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\Circuit.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\UserDefined.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\WorkSpace.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\CircuitElement.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\ComputationUnit.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\MemoryBlock.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Switch.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Wire.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NAndGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\AndGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\Gates.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\OrGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NotGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NorGate.java]
+29 Apr 2019 17:18:59 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@132b4d7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, ;C:\Users\M. Goktan Gudukbay\Desktop\SimCO;C:\Users\M. Goktan Gudukbay\Desktop\DrJava.exe]
+29 Apr 2019 17:19:00 GMT: Compiler call returned
+29 Apr 2019 17:19:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f0291b
+29 Apr 2019 17:19:00 GMT:  Kind = ERROR
+29 Apr 2019 17:19:00 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\Gates.java LineNo = 28 ColNo = 28 Msg = 'The abstract method logicOperation in type Gates can only be defined by an abstract class'
+29 Apr 2019 17:19:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@165424b
+29 Apr 2019 17:19:00 GMT:  Kind = ERROR
+29 Apr 2019 17:19:00 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\Gates.java LineNo = 4 ColNo = 14 Msg = 'The type Gates must be an abstract class to define abstract methods'
+29 Apr 2019 17:19:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f1010d
+29 Apr 2019 17:19:00 GMT:  Kind = ERROR
+29 Apr 2019 17:19:00 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NAndGate.java LineNo = 6 ColNo = 11 Msg = 'Implicit super constructor Gates() is undefined. Must explicitly invoke another constructor'
+29 Apr 2019 17:19:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@102b704
+29 Apr 2019 17:19:00 GMT:  Kind = ERROR
+29 Apr 2019 17:19:00 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\AndGate.java LineNo = 11 ColNo = 11 Msg = 'a cannot be resolved to a variable'
+29 Apr 2019 17:19:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7ac1d2
+29 Apr 2019 17:19:00 GMT:  Kind = ERROR
+29 Apr 2019 17:19:00 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\AndGate.java LineNo = 11 ColNo = 16 Msg = 'b cannot be resolved to a variable'
+29 Apr 2019 17:19:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@172ad0c
+29 Apr 2019 17:19:00 GMT:  Kind = ERROR
+29 Apr 2019 17:19:00 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java LineNo = 12 ColNo = 11 Msg = 'a cannot be resolved to a variable'
+29 Apr 2019 17:19:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7a3306
+29 Apr 2019 17:19:00 GMT:  Kind = ERROR
+29 Apr 2019 17:19:00 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java LineNo = 12 ColNo = 16 Msg = 'b cannot be resolved to a variable'
+29 Apr 2019 17:19:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5a0eda
+29 Apr 2019 17:19:00 GMT:  Kind = ERROR
+29 Apr 2019 17:19:00 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\OrGate.java LineNo = 12 ColNo = 11 Msg = 'a cannot be resolved to a variable'
+29 Apr 2019 17:19:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f42852
+29 Apr 2019 17:19:00 GMT:  Kind = ERROR
+29 Apr 2019 17:19:00 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\OrGate.java LineNo = 12 ColNo = 16 Msg = 'b cannot be resolved to a variable'
+29 Apr 2019 17:19:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8e7cd
+29 Apr 2019 17:19:00 GMT:  Kind = ERROR
+29 Apr 2019 17:19:00 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NotGate.java LineNo = 11 ColNo = 11 Msg = 'a cannot be resolved to a variable'
+29 Apr 2019 17:19:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b90249
+29 Apr 2019 17:19:00 GMT:  Kind = ERROR
+29 Apr 2019 17:19:00 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NotGate.java LineNo = 11 ColNo = 16 Msg = 'b cannot be resolved to a variable'
+29 Apr 2019 17:19:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15dfeba
+29 Apr 2019 17:19:00 GMT:  Kind = ERROR
+29 Apr 2019 17:19:00 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NorGate.java LineNo = 11 ColNo = 11 Msg = 'a cannot be resolved to a variable'
+29 Apr 2019 17:19:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@88e7bb
+29 Apr 2019 17:19:00 GMT:  Kind = ERROR
+29 Apr 2019 17:19:00 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NorGate.java LineNo = 11 ColNo = 16 Msg = 'b cannot be resolved to a variable'
+29 Apr 2019 17:19:35 GMT: diagnostics = javax.tools.DiagnosticCollector@a1a165
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@b30ff0
+fileObjects = [C:\Users\M. Goktan Gudukbay\Desktop\SimCO\MainScreen.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\Circuit.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\UserDefined.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\WorkSpace.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\CircuitElement.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\ComputationUnit.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\MemoryBlock.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Switch.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Wire.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NAndGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\AndGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\OrGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NotGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NorGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\Gates.java]
+29 Apr 2019 17:19:35 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@15aac8f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, ;C:\Users\M. Goktan Gudukbay\Desktop\SimCO;C:\Users\M. Goktan Gudukbay\Desktop\DrJava.exe]
+29 Apr 2019 17:19:35 GMT: Compiler call returned
+29 Apr 2019 17:19:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@150348b
+29 Apr 2019 17:19:35 GMT:  Kind = ERROR
+29 Apr 2019 17:19:35 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\Gates.java LineNo = 28 ColNo = 28 Msg = 'The abstract method logicOperation in type Gates can only be defined by an abstract class'
+29 Apr 2019 17:19:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13f9c8d
+29 Apr 2019 17:19:35 GMT:  Kind = ERROR
+29 Apr 2019 17:19:35 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\Gates.java LineNo = 4 ColNo = 14 Msg = 'The type Gates must be an abstract class to define abstract methods'
+29 Apr 2019 17:19:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16cf9ec
+29 Apr 2019 17:19:35 GMT:  Kind = ERROR
+29 Apr 2019 17:19:35 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NAndGate.java LineNo = 6 ColNo = 11 Msg = 'Implicit super constructor Gates() is undefined. Must explicitly invoke another constructor'
+29 Apr 2019 17:19:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e2ae23
+29 Apr 2019 17:19:35 GMT:  Kind = ERROR
+29 Apr 2019 17:19:35 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\AndGate.java LineNo = 11 ColNo = 11 Msg = 'a cannot be resolved to a variable'
+29 Apr 2019 17:19:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18831f8
+29 Apr 2019 17:19:35 GMT:  Kind = ERROR
+29 Apr 2019 17:19:35 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\AndGate.java LineNo = 11 ColNo = 16 Msg = 'b cannot be resolved to a variable'
+29 Apr 2019 17:19:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@160a70
+29 Apr 2019 17:19:35 GMT:  Kind = ERROR
+29 Apr 2019 17:19:35 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java LineNo = 12 ColNo = 11 Msg = 'a cannot be resolved to a variable'
+29 Apr 2019 17:19:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f2c47
+29 Apr 2019 17:19:35 GMT:  Kind = ERROR
+29 Apr 2019 17:19:35 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java LineNo = 12 ColNo = 16 Msg = 'b cannot be resolved to a variable'
+29 Apr 2019 17:19:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b002d3
+29 Apr 2019 17:19:35 GMT:  Kind = ERROR
+29 Apr 2019 17:19:35 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\OrGate.java LineNo = 12 ColNo = 11 Msg = 'a cannot be resolved to a variable'
+29 Apr 2019 17:19:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@51fa4c
+29 Apr 2019 17:19:35 GMT:  Kind = ERROR
+29 Apr 2019 17:19:35 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\OrGate.java LineNo = 12 ColNo = 16 Msg = 'b cannot be resolved to a variable'
+29 Apr 2019 17:19:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4627fc
+29 Apr 2019 17:19:35 GMT:  Kind = ERROR
+29 Apr 2019 17:19:35 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NotGate.java LineNo = 11 ColNo = 11 Msg = 'a cannot be resolved to a variable'
+29 Apr 2019 17:19:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10a46a7
+29 Apr 2019 17:19:35 GMT:  Kind = ERROR
+29 Apr 2019 17:19:35 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NotGate.java LineNo = 11 ColNo = 16 Msg = 'b cannot be resolved to a variable'
+29 Apr 2019 17:19:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15866cf
+29 Apr 2019 17:19:35 GMT:  Kind = ERROR
+29 Apr 2019 17:19:35 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NorGate.java LineNo = 11 ColNo = 11 Msg = 'a cannot be resolved to a variable'
+29 Apr 2019 17:19:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c67db2
+29 Apr 2019 17:19:35 GMT:  Kind = ERROR
+29 Apr 2019 17:19:35 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NorGate.java LineNo = 11 ColNo = 16 Msg = 'b cannot be resolved to a variable'
+29 Apr 2019 17:20:02 GMT: diagnostics = javax.tools.DiagnosticCollector@1312dec
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1fcac3d
+fileObjects = [C:\Users\M. Goktan Gudukbay\Desktop\SimCO\MainScreen.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\Circuit.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\UserDefined.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\WorkSpace.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\CircuitElement.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\ComputationUnit.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\MemoryBlock.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Switch.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Wire.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NAndGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\OrGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NotGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NorGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\Gates.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\AndGate.java]
+29 Apr 2019 17:20:02 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@190df85' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, ;C:\Users\M. Goktan Gudukbay\Desktop\SimCO;C:\Users\M. Goktan Gudukbay\Desktop\DrJava.exe]
+29 Apr 2019 17:20:02 GMT: Compiler call returned
+29 Apr 2019 17:20:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10d8b1b
+29 Apr 2019 17:20:02 GMT:  Kind = ERROR
+29 Apr 2019 17:20:02 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\Gates.java LineNo = 28 ColNo = 28 Msg = 'The abstract method logicOperation in type Gates can only be defined by an abstract class'
+29 Apr 2019 17:20:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@533a78
+29 Apr 2019 17:20:02 GMT:  Kind = ERROR
+29 Apr 2019 17:20:02 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\Gates.java LineNo = 4 ColNo = 14 Msg = 'The type Gates must be an abstract class to define abstract methods'
+29 Apr 2019 17:20:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@53ef1b
+29 Apr 2019 17:20:02 GMT:  Kind = ERROR
+29 Apr 2019 17:20:02 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NAndGate.java LineNo = 6 ColNo = 11 Msg = 'Implicit super constructor Gates() is undefined. Must explicitly invoke another constructor'
+29 Apr 2019 17:20:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2f0133
+29 Apr 2019 17:20:02 GMT:  Kind = ERROR
+29 Apr 2019 17:20:02 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java LineNo = 12 ColNo = 11 Msg = 'a cannot be resolved to a variable'
+29 Apr 2019 17:20:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14115be
+29 Apr 2019 17:20:02 GMT:  Kind = ERROR
+29 Apr 2019 17:20:02 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java LineNo = 12 ColNo = 16 Msg = 'b cannot be resolved to a variable'
+29 Apr 2019 17:20:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e87a94
+29 Apr 2019 17:20:02 GMT:  Kind = ERROR
+29 Apr 2019 17:20:02 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\OrGate.java LineNo = 12 ColNo = 11 Msg = 'a cannot be resolved to a variable'
+29 Apr 2019 17:20:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1547625
+29 Apr 2019 17:20:02 GMT:  Kind = ERROR
+29 Apr 2019 17:20:02 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\OrGate.java LineNo = 12 ColNo = 16 Msg = 'b cannot be resolved to a variable'
+29 Apr 2019 17:20:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19ccbe5
+29 Apr 2019 17:20:02 GMT:  Kind = ERROR
+29 Apr 2019 17:20:02 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NotGate.java LineNo = 11 ColNo = 11 Msg = 'a cannot be resolved to a variable'
+29 Apr 2019 17:20:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d5dd0d
+29 Apr 2019 17:20:02 GMT:  Kind = ERROR
+29 Apr 2019 17:20:02 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NotGate.java LineNo = 11 ColNo = 16 Msg = 'b cannot be resolved to a variable'
+29 Apr 2019 17:20:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12e3059
+29 Apr 2019 17:20:02 GMT:  Kind = ERROR
+29 Apr 2019 17:20:02 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NorGate.java LineNo = 11 ColNo = 11 Msg = 'a cannot be resolved to a variable'
+29 Apr 2019 17:20:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17b98c7
+29 Apr 2019 17:20:02 GMT:  Kind = ERROR
+29 Apr 2019 17:20:02 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NorGate.java LineNo = 11 ColNo = 16 Msg = 'b cannot be resolved to a variable'
+29 Apr 2019 17:20:12 GMT: diagnostics = javax.tools.DiagnosticCollector@9d27fc
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@15c6792
+fileObjects = [C:\Users\M. Goktan Gudukbay\Desktop\SimCO\MainScreen.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\Circuit.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\UserDefined.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\WorkSpace.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\CircuitElement.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\ComputationUnit.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\MemoryBlock.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Switch.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Wire.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NAndGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\OrGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NotGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NorGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\AndGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\Gates.java]
+29 Apr 2019 17:20:12 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@a79992' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, ;C:\Users\M. Goktan Gudukbay\Desktop\SimCO;C:\Users\M. Goktan Gudukbay\Desktop\DrJava.exe]
+29 Apr 2019 17:20:12 GMT: Compiler call returned
+29 Apr 2019 17:20:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@85ca10
+29 Apr 2019 17:20:12 GMT:  Kind = ERROR
+29 Apr 2019 17:20:12 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NAndGate.java LineNo = 6 ColNo = 11 Msg = 'Implicit super constructor Gates() is undefined. Must explicitly invoke another constructor'
+29 Apr 2019 17:20:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9a2541
+29 Apr 2019 17:20:12 GMT:  Kind = ERROR
+29 Apr 2019 17:20:12 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java LineNo = 12 ColNo = 11 Msg = 'a cannot be resolved to a variable'
+29 Apr 2019 17:20:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19e0992
+29 Apr 2019 17:20:12 GMT:  Kind = ERROR
+29 Apr 2019 17:20:12 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java LineNo = 12 ColNo = 16 Msg = 'b cannot be resolved to a variable'
+29 Apr 2019 17:20:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@676f2e
+29 Apr 2019 17:20:12 GMT:  Kind = ERROR
+29 Apr 2019 17:20:12 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\OrGate.java LineNo = 12 ColNo = 11 Msg = 'a cannot be resolved to a variable'
+29 Apr 2019 17:20:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@daecf8
+29 Apr 2019 17:20:12 GMT:  Kind = ERROR
+29 Apr 2019 17:20:12 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\OrGate.java LineNo = 12 ColNo = 16 Msg = 'b cannot be resolved to a variable'
+29 Apr 2019 17:20:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f5600f
+29 Apr 2019 17:20:12 GMT:  Kind = ERROR
+29 Apr 2019 17:20:12 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NotGate.java LineNo = 11 ColNo = 11 Msg = 'a cannot be resolved to a variable'
+29 Apr 2019 17:20:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f8297a
+29 Apr 2019 17:20:12 GMT:  Kind = ERROR
+29 Apr 2019 17:20:12 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NotGate.java LineNo = 11 ColNo = 16 Msg = 'b cannot be resolved to a variable'
+29 Apr 2019 17:20:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13931d4
+29 Apr 2019 17:20:12 GMT:  Kind = ERROR
+29 Apr 2019 17:20:12 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NorGate.java LineNo = 11 ColNo = 11 Msg = 'a cannot be resolved to a variable'
+29 Apr 2019 17:20:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@dfa267
+29 Apr 2019 17:20:12 GMT:  Kind = ERROR
+29 Apr 2019 17:20:12 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NorGate.java LineNo = 11 ColNo = 16 Msg = 'b cannot be resolved to a variable'
+29 Apr 2019 17:20:21 GMT: diagnostics = javax.tools.DiagnosticCollector@112d9b2
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@8f56a1
+fileObjects = [C:\Users\M. Goktan Gudukbay\Desktop\SimCO\MainScreen.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\Circuit.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\UserDefined.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\WorkSpace.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\CircuitElement.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\ComputationUnit.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\MemoryBlock.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Switch.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Wire.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\OrGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NotGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NorGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\AndGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\Gates.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NAndGate.java]
+29 Apr 2019 17:20:21 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@d01e12' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, ;C:\Users\M. Goktan Gudukbay\Desktop\SimCO;C:\Users\M. Goktan Gudukbay\Desktop\DrJava.exe]
+29 Apr 2019 17:20:21 GMT: Compiler call returned
+29 Apr 2019 17:20:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c843f5
+29 Apr 2019 17:20:21 GMT:  Kind = ERROR
+29 Apr 2019 17:20:21 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java LineNo = 12 ColNo = 11 Msg = 'a cannot be resolved to a variable'
+29 Apr 2019 17:20:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1cd905e
+29 Apr 2019 17:20:21 GMT:  Kind = ERROR
+29 Apr 2019 17:20:21 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java LineNo = 12 ColNo = 16 Msg = 'b cannot be resolved to a variable'
+29 Apr 2019 17:20:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1aeebdb
+29 Apr 2019 17:20:21 GMT:  Kind = ERROR
+29 Apr 2019 17:20:21 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\OrGate.java LineNo = 12 ColNo = 11 Msg = 'a cannot be resolved to a variable'
+29 Apr 2019 17:20:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11976a
+29 Apr 2019 17:20:21 GMT:  Kind = ERROR
+29 Apr 2019 17:20:21 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\OrGate.java LineNo = 12 ColNo = 16 Msg = 'b cannot be resolved to a variable'
+29 Apr 2019 17:20:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f2bef6
+29 Apr 2019 17:20:21 GMT:  Kind = ERROR
+29 Apr 2019 17:20:21 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NotGate.java LineNo = 11 ColNo = 11 Msg = 'a cannot be resolved to a variable'
+29 Apr 2019 17:20:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13682d6
+29 Apr 2019 17:20:21 GMT:  Kind = ERROR
+29 Apr 2019 17:20:21 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NotGate.java LineNo = 11 ColNo = 16 Msg = 'b cannot be resolved to a variable'
+29 Apr 2019 17:20:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1644358
+29 Apr 2019 17:20:21 GMT:  Kind = ERROR
+29 Apr 2019 17:20:21 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NorGate.java LineNo = 11 ColNo = 11 Msg = 'a cannot be resolved to a variable'
+29 Apr 2019 17:20:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ee38d9
+29 Apr 2019 17:20:21 GMT:  Kind = ERROR
+29 Apr 2019 17:20:21 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NorGate.java LineNo = 11 ColNo = 16 Msg = 'b cannot be resolved to a variable'
+29 Apr 2019 17:20:35 GMT: diagnostics = javax.tools.DiagnosticCollector@75acc2
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1abd62
+fileObjects = [C:\Users\M. Goktan Gudukbay\Desktop\SimCO\MainScreen.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\Circuit.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\UserDefined.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\WorkSpace.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\CircuitElement.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\ComputationUnit.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\MemoryBlock.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Switch.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Wire.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\OrGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NotGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\AndGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\Gates.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NAndGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NorGate.java]
+29 Apr 2019 17:20:35 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1624e7d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, ;C:\Users\M. Goktan Gudukbay\Desktop\SimCO;C:\Users\M. Goktan Gudukbay\Desktop\DrJava.exe]
+29 Apr 2019 17:20:35 GMT: Compiler call returned
+29 Apr 2019 17:20:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@185421a
+29 Apr 2019 17:20:35 GMT:  Kind = ERROR
+29 Apr 2019 17:20:35 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java LineNo = 12 ColNo = 11 Msg = 'a cannot be resolved to a variable'
+29 Apr 2019 17:20:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19eb6c3
+29 Apr 2019 17:20:35 GMT:  Kind = ERROR
+29 Apr 2019 17:20:35 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java LineNo = 12 ColNo = 16 Msg = 'b cannot be resolved to a variable'
+29 Apr 2019 17:20:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1458a3f
+29 Apr 2019 17:20:35 GMT:  Kind = ERROR
+29 Apr 2019 17:20:35 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\OrGate.java LineNo = 12 ColNo = 11 Msg = 'a cannot be resolved to a variable'
+29 Apr 2019 17:20:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1342dbe
+29 Apr 2019 17:20:35 GMT:  Kind = ERROR
+29 Apr 2019 17:20:35 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\OrGate.java LineNo = 12 ColNo = 16 Msg = 'b cannot be resolved to a variable'
+29 Apr 2019 17:20:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@402110
+29 Apr 2019 17:20:35 GMT:  Kind = ERROR
+29 Apr 2019 17:20:35 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NotGate.java LineNo = 11 ColNo = 11 Msg = 'a cannot be resolved to a variable'
+29 Apr 2019 17:20:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ecb075
+29 Apr 2019 17:20:35 GMT:  Kind = ERROR
+29 Apr 2019 17:20:35 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NotGate.java LineNo = 11 ColNo = 16 Msg = 'b cannot be resolved to a variable'
+29 Apr 2019 17:21:53 GMT: diagnostics = javax.tools.DiagnosticCollector@130948a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1d83514
+fileObjects = [C:\Users\M. Goktan Gudukbay\Desktop\SimCO\MainScreen.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\Circuit.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\UserDefined.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\WorkSpace.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\CircuitElement.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\ComputationUnit.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\MemoryBlock.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Switch.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Wire.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\Gates.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NAndGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\OrGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NotGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\AndGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NorGate.java]
+29 Apr 2019 17:21:53 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@76e5ec' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, ;C:\Users\M. Goktan Gudukbay\Desktop\SimCO;C:\Users\M. Goktan Gudukbay\Desktop\DrJava.exe]
+29 Apr 2019 17:21:54 GMT: Compiler call returned
+29 Apr 2019 17:21:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@129701a
+29 Apr 2019 17:21:54 GMT:  Kind = ERROR
+29 Apr 2019 17:21:54 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java LineNo = 12 ColNo = 11 Msg = 'a cannot be resolved to a variable'
+29 Apr 2019 17:21:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@104640b
+29 Apr 2019 17:21:54 GMT:  Kind = ERROR
+29 Apr 2019 17:21:54 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java LineNo = 12 ColNo = 16 Msg = 'b cannot be resolved to a variable'
+29 Apr 2019 17:21:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f3285b
+29 Apr 2019 17:21:54 GMT:  Kind = ERROR
+29 Apr 2019 17:21:54 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\AndGate.java LineNo = 11 ColNo = 11 Msg = 'The method input1() is undefined for the type AndGate'
+29 Apr 2019 17:21:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e13540
+29 Apr 2019 17:21:54 GMT:  Kind = ERROR
+29 Apr 2019 17:21:54 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\AndGate.java LineNo = 11 ColNo = 23 Msg = 'The method input2() is undefined for the type AndGate'
+29 Apr 2019 17:21:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1003bc6
+29 Apr 2019 17:21:54 GMT:  Kind = ERROR
+29 Apr 2019 17:21:54 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NorGate.java LineNo = 11 ColNo = 11 Msg = 'The method input1() is undefined for the type NorGate'
+29 Apr 2019 17:21:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1482dd1
+29 Apr 2019 17:21:54 GMT:  Kind = ERROR
+29 Apr 2019 17:21:54 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NorGate.java LineNo = 11 ColNo = 23 Msg = 'The method input2() is undefined for the type NorGate'
+29 Apr 2019 17:21:59 GMT: diagnostics = javax.tools.DiagnosticCollector@1ae50b7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5be331
+fileObjects = [C:\Users\M. Goktan Gudukbay\Desktop\SimCO\MainScreen.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\Circuit.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\UserDefined.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\WorkSpace.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\CircuitElement.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\ComputationUnit.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\MemoryBlock.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Switch.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Wire.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\Gates.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NAndGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\OrGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NotGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NorGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\AndGate.java]
+29 Apr 2019 17:21:59 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7d9194' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, ;C:\Users\M. Goktan Gudukbay\Desktop\SimCO;C:\Users\M. Goktan Gudukbay\Desktop\DrJava.exe]
+29 Apr 2019 17:21:59 GMT: Compiler call returned
+29 Apr 2019 17:21:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d8a2e8
+29 Apr 2019 17:21:59 GMT:  Kind = ERROR
+29 Apr 2019 17:21:59 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java LineNo = 12 ColNo = 11 Msg = 'a cannot be resolved to a variable'
+29 Apr 2019 17:21:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a479f3
+29 Apr 2019 17:21:59 GMT:  Kind = ERROR
+29 Apr 2019 17:21:59 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java LineNo = 12 ColNo = 16 Msg = 'b cannot be resolved to a variable'
+29 Apr 2019 17:21:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@63a920
+29 Apr 2019 17:21:59 GMT:  Kind = ERROR
+29 Apr 2019 17:21:59 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NorGate.java LineNo = 11 ColNo = 11 Msg = 'The method input1() is undefined for the type NorGate'
+29 Apr 2019 17:21:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@124b676
+29 Apr 2019 17:21:59 GMT:  Kind = ERROR
+29 Apr 2019 17:21:59 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NorGate.java LineNo = 11 ColNo = 23 Msg = 'The method input2() is undefined for the type NorGate'
+29 Apr 2019 17:22:05 GMT: diagnostics = javax.tools.DiagnosticCollector@1fa148e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@111391d
+fileObjects = [C:\Users\M. Goktan Gudukbay\Desktop\SimCO\MainScreen.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\Circuit.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\UserDefined.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\WorkSpace.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\CircuitElement.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\ComputationUnit.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\MemoryBlock.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Switch.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Wire.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\Gates.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NAndGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\OrGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NotGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\AndGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NorGate.java]
+29 Apr 2019 17:22:05 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@187ac65' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, ;C:\Users\M. Goktan Gudukbay\Desktop\SimCO;C:\Users\M. Goktan Gudukbay\Desktop\DrJava.exe]
+29 Apr 2019 17:22:05 GMT: Compiler call returned
+29 Apr 2019 17:22:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@144221d
+29 Apr 2019 17:22:05 GMT:  Kind = ERROR
+29 Apr 2019 17:22:05 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java LineNo = 12 ColNo = 11 Msg = 'a cannot be resolved to a variable'
+29 Apr 2019 17:22:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@480b73
+29 Apr 2019 17:22:05 GMT:  Kind = ERROR
+29 Apr 2019 17:22:05 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java LineNo = 12 ColNo = 16 Msg = 'b cannot be resolved to a variable'
+29 Apr 2019 17:22:16 GMT: diagnostics = javax.tools.DiagnosticCollector@97de61
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@aeb46d
+fileObjects = [C:\Users\M. Goktan Gudukbay\Desktop\SimCO\MainScreen.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\Circuit.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\UserDefined.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\WorkSpace.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\CircuitElement.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\ComputationUnit.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\MemoryBlock.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Switch.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Wire.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\Gates.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NAndGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\OrGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NotGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\AndGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NorGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java]
+29 Apr 2019 17:22:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7a5bdc' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, ;C:\Users\M. Goktan Gudukbay\Desktop\SimCO;C:\Users\M. Goktan Gudukbay\Desktop\DrJava.exe]
+29 Apr 2019 17:22:17 GMT: Compiler call returned
+29 Apr 2019 17:25:54 GMT: diagnostics = javax.tools.DiagnosticCollector@1f1f5d0
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@335185
+fileObjects = [C:\Users\M. Goktan Gudukbay\Desktop\SimCO\MainScreen.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\Circuit.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\UserDefined.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\WorkSpace.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\CircuitElement.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\ComputationUnit.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\MemoryBlock.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Switch.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Wire.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\Gates.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NAndGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\AndGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NorGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\OrGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NotGate.java]
+29 Apr 2019 17:25:54 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6de72f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, ;C:\Users\M. Goktan Gudukbay\Desktop\SimCO;C:\Users\M. Goktan Gudukbay\Desktop\DrJava.exe]
+29 Apr 2019 17:25:54 GMT: Compiler call returned
+29 Apr 2019 17:25:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16369c0
+29 Apr 2019 17:25:54 GMT:  Kind = ERROR
+29 Apr 2019 17:25:54 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NotGate.java LineNo = 6 ColNo = 11 Msg = 'Implicit super constructor Gates() is undefined. Must explicitly invoke another constructor'
+29 Apr 2019 17:27:27 GMT: diagnostics = javax.tools.DiagnosticCollector@1edca74
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@150c4df
+fileObjects = [C:\Users\M. Goktan Gudukbay\Desktop\SimCO\MainScreen.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\Circuit.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\UserDefined.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\WorkSpace.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\CircuitElement.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\ComputationUnit.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\MemoryBlock.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Switch.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Wire.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NAndGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\AndGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NorGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\OrGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NotGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\Gates.java]
+29 Apr 2019 17:27:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4b4ed' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, ;C:\Users\M. Goktan Gudukbay\Desktop\SimCO;C:\Users\M. Goktan Gudukbay\Desktop\DrJava.exe]
+29 Apr 2019 17:27:27 GMT: Compiler call returned
+29 Apr 2019 17:27:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ef39ba
+29 Apr 2019 17:27:27 GMT:  Kind = ERROR
+29 Apr 2019 17:27:27 GMT: Name = C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NotGate.java LineNo = 6 ColNo = 11 Msg = 'Implicit super constructor Gates() is undefined. Must explicitly invoke another constructor'
+29 Apr 2019 17:27:33 GMT: diagnostics = javax.tools.DiagnosticCollector@12d913e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@981132
+fileObjects = [C:\Users\M. Goktan Gudukbay\Desktop\SimCO\MainScreen.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\Circuit.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\UserDefined.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\WorkSpace.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\CircuitElement.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\ComputationUnit.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\MemoryBlock.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Switch.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Wire.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NAndGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\AndGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NorGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\OrGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\Gates.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NotGate.java]
+29 Apr 2019 17:27:33 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1398fd' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, ;C:\Users\M. Goktan Gudukbay\Desktop\SimCO;C:\Users\M. Goktan Gudukbay\Desktop\DrJava.exe]
+29 Apr 2019 17:27:33 GMT: Compiler call returned
+29 Apr 2019 17:31:01 GMT: diagnostics = javax.tools.DiagnosticCollector@19b526e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1745dcd
+fileObjects = [C:\Users\M. Goktan Gudukbay\Desktop\SimCO\MainScreen.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\Circuit.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\UserDefined.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\WorkSpace.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\CircuitElement.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\ComputationUnit.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\MemoryBlock.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Switch.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Wire.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\Gates.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NotGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NAndGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\AndGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NorGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\OrGate.java]
+29 Apr 2019 17:31:01 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@112e77e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, ;C:\Users\M. Goktan Gudukbay\Desktop\SimCO;C:\Users\M. Goktan Gudukbay\Desktop\DrJava.exe]
+29 Apr 2019 17:31:01 GMT: Compiler call returned
+29 Apr 2019 17:36:06 GMT: diagnostics = javax.tools.DiagnosticCollector@1fb0310
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@14ce01f
+fileObjects = [C:\Users\M. Goktan Gudukbay\Desktop\SimCO\MainScreen.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\Circuit.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\UserDefined.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\Circuit\WorkSpace.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\CircuitElement.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\ComputationUnit.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\MemoryBlock.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Switch.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Wire.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\Gates.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NAndGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\AndGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NorGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\XOrGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\OrGate.java, C:\Users\M. Goktan Gudukbay\Desktop\SimCO\CircuitElement\Gates\NotGate.java]
+29 Apr 2019 17:36:06 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1101d4e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, ;C:\Users\M. Goktan Gudukbay\Desktop\SimCO;C:\Users\M. Goktan Gudukbay\Desktop\DrJava.exe]
+29 Apr 2019 17:36:06 GMT: Compiler call returned
