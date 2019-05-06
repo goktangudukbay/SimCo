@@ -1,0 +1,32 @@
+import java.awt.*;
+import javax.swing.*;
+
+public class MainWorkspace extends JFrame
+{
+   public MainWorkspace()
+   {
+      JPanel mainPanel = new JPanel();
+      add( mainPanel);
+      mainPanel.setLayout(new BorderLayout());
+      JMenuBar menuBar;
+      JMenu fileMenu, editMenu, viewMenu, helpMenu;
+      menuBar = new JMenuBar();
+      fileMenu = new JMenu( "File");
+      menuBar.add( fileMenu);
+      editMenu = new JMenu( "Edit");
+      menuBar.add( editMenu);
+      viewMenu = new JMenu( "View");
+      menuBar.add( viewMenu);
+      helpMenu = new JMenu( "Help");
+      menuBar.add( helpMenu);
+      
+      mainPanel.add( menuBar, BorderLayout.NORTH);
+      setSize( new Dimension( 1000, 800));
+      setLocationRelativeTo(null);
+      setDefaultCloseOperation( JFrame.EXIT_ON_CLOSE );
+      setVisible( true);
+      
+   }
+   
+   
+}

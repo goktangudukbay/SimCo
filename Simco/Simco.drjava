@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" build="out/" main="Simco" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="ComponentPanel.java" package="" timestamp="06-May-2019 14:18:21">
+        <select from="451" to="451"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Simco.java" package="" timestamp="06-May-2019 13:00:12">
+        <select from="451" to="451"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="WelcomeFrame.java" package="" timestamp="06-May-2019 13:00:12">
+        <select from="451" to="451"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Circuit/Circuit.java" package="" timestamp="06-May-2019 13:00:12">
+        <select from="451" to="451"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Circuit/UserDefined.java" package="" timestamp="06-May-2019 13:00:12">
+        <select from="451" to="451"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="CircuitElement/MemoryBlock.java" package="" timestamp="06-May-2019 13:00:12">
+        <select from="451" to="451"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="CircuitElement/Wire.java" package="" timestamp="06-May-2019 13:00:12">
+        <select from="451" to="451"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="CircuitElement/Gates/AndGate.java" package="" timestamp="06-May-2019 13:00:12">
+        <select from="451" to="451"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="CircuitElement/Gates/NAndGate.java" package="" timestamp="06-May-2019 13:00:12">
+        <select from="451" to="451"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="CircuitElement/Gates/NorGate.java" package="" timestamp="06-May-2019 13:00:12">
+        <select from="451" to="451"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="CircuitElement/Gates/NotGate.java" package="" timestamp="06-May-2019 13:00:12">
+        <select from="451" to="451"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="CircuitElement/Gates/OrGate.java" package="" timestamp="06-May-2019 13:00:12">
+        <select from="451" to="451"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="CircuitElement/Gates/XOrGate.java" package="" timestamp="06-May-2019 13:00:12">
+        <select from="451" to="451"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="CircuitElement/Switch.java" package="" timestamp="06-May-2019 13:05:19">
+        <select from="451" to="451"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Circuit/WorkSpace.java" package="" timestamp="06-May-2019 13:08:40">
+        <select from="451" to="451"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="CircuitElement/Gates/Gates.java" package="" timestamp="06-May-2019 13:11:51">
+        <select from="451" to="451"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="CircuitElement/ComputationUnit.java" package="" timestamp="06-May-2019 13:13:07">
+        <select from="451" to="451"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="CircuitElement/CircuitElement.java" package="" timestamp="06-May-2019 13:52:28">
+        <select from="451" to="451"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="MainWorkspace.java" package="" timestamp="06-May-2019 14:01:06">
+        <select from="451" to="451"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>

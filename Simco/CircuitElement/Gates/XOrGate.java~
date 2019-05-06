@@ -1,0 +1,11 @@
+/**
+ * Auto Generated Java Class.
+ */
+public class XOrGate extends Gates {
+   
+   public XOrGate() { 
+      /* YOUR CONSTRUCTOR CODE HERE*/
+   }
+   /* ADD YOUR CODE HERE */
+   
+}

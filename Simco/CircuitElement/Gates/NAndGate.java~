@@ -1,0 +1,11 @@
+/**
+ * Auto Generated Java Class.
+ */
+public class NAndGate extends Gates {
+   
+   public NAndGate() { 
+      /* YOUR CONSTRUCTOR CODE HERE*/
+   }
+   /* ADD YOUR CODE HERE */
+   
+}
